@@ -41,7 +41,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+      { icon: 'github', link: 'https://github.com/SakumyZ/vitepress-template' },
       // { icon: 'twitter', link: '...' },
       // You can also add custom icons by passing SVG as string:
       {
@@ -90,7 +90,7 @@ export default defineConfig({
     //   next: 'Proxima pagina'
     // },
     // editLink: {
-    //   pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+    //   pattern: 'https://github.com/SakumyZ/vitepress-template/edit/main/docs/:path',
     //   text: 'Edit this page on GitHub'
     // },
     lastUpdatedText: 'Updated Date',
